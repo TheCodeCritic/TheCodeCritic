@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheCodeCritic
 - 👀 I’m interested in Machine Learning ad AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a BIG project
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
 <!---
